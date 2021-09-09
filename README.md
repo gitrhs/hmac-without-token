@@ -1,5 +1,5 @@
 # hmac-without-token
-Make Temporary Token without Database
+Make Temporary Token that Valid for 2-3 Hours without Database
 1. Set your secret key on "content.php" and "token.php" file.
 2. Add ?user=(username) after token.php
 example: https://channel.mbed.cc/github/hmac/token.php?user=demo
