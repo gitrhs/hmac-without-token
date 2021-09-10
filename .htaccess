@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^token.json  token.php [NC,L]
+#change-PHP-to-Json-File
